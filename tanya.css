@@ -1,0 +1,24 @@
+p{
+		font-size: 2em;
+	
+	}
+	#one{
+		text-align: center;
+		margin-right: 12em;
+	border:20px ridge green;
+	width: 400px;
+	margin:auto;
+	border-radius: 20px;
+
+	}
+	body{
+		text-align: left;
+	padding-top: 10em;}
+
+#two{
+	font-size: 30px;
+	background-color:lightblue;
+}
+#three{
+	font-size: 18px;
+}
